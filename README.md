@@ -1,2 +1,2 @@
-# winit-form-wp
+# winit-form
 WP Plugin Winit Form
